@@ -20,3 +20,4 @@ $evm.object['sort_by'] = 'value'
 $evm.object['sort_order'] = 'ascending'
 $evm.object['required'] = true
 $evm.object['values'] = dialog_hash
+$evm.log("info", "Job template #{dialog_hash}")
